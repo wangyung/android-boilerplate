@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="not_implemented">This function is not implemented yet</string>
+</resources>
